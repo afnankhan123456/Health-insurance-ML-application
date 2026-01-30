@@ -1,7 +1,7 @@
 # Health-insurance-ML-application
 🏥 Health Insurance Dataset – Concept Overview  The primary purpose of the Health Insurance dataset is to predict the medical insurance charges (premium) of an individual based on their physical and lifestyle attributes such as age, BMI (Body Mass Index), smoking status, gender, and number of children.
 In simple terms, if an insurance company knows these basic details about a new customer, it can use a machine learning model to accurately estimate that person’s expected yearly medical cost.
-This dataset represents a real-world scenario where insurance companies determine premiums based on a person’s health risks and lifestyle habits.
+This dataset represents a real-world scenario where insurance companies determine premiums based on a person’s health risks and lifestyle habits
 
 
 # Use Cases
